@@ -9,7 +9,7 @@ RUN set -x; \
             curl \
             node-less \
             node-clean-css \
-            python-pyinotify \
+            python-pyinotify sudo \
             python-renderpm \
             python-support \
             python-unidecode \
