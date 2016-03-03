@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Odoo S.A. <info@odoo.com>
+MAINTAINER Manel Marcos <hola@manelmarcos.com>
 
 # Install some deps, lessc and less-plugin-clean-css, and wkhtmltopdf
 RUN set -x; \
@@ -45,6 +45,9 @@ EXPOSE 8069 8071
 
 # Set the default config file
 ENV OPENERP_SERVER /etc/odoo/openerp-server.conf
+
+# add Odoo to sudoers
+RUN echo "odoo:odoo" | chpasswd && adduser odoo sudo
 
 # Set default user when running the container
 USER odoo
