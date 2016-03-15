@@ -47,7 +47,11 @@ RUN mkdir -p /mnt/extra-addons \
 #Mount /mnt/locales para ficheros ln10
 RUN mkdir -p /mnt/locales \
         && chown -R odoo /mnt/locales
-VOLUME ["/var/lib/odoo", "/mnt/extra-addons", "/mnt/locales"]
+#Mount filestore
+RUN mkdir -p /mnt/filelocal/odoo \
+        && chown -R odoo /mnt/filelocal/odoo
+
+VOLUME ["/var/lib/odoo", "/mnt/extra-addons", "/mnt/locales", "/mnt/filelocal/odoo"]
 
 # Expose Odoo services
 EXPOSE 8069 8071
