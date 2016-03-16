@@ -48,10 +48,10 @@ RUN mkdir -p /mnt/extra-addons \
 RUN mkdir -p /mnt/locales \
         && chown -R odoo /mnt/locales
 #Mount filestore
-RUN mkdir -p /opt/odoo \
-        && chown -R odoo /opt
+RUN mkdir -p /opt/odoo/filestore \
+        && chown -R odoo /opt/odoo/filestore
 
-VOLUME ["/var/lib/odoo", "/mnt/extra-addons", "/mnt/locales", "/opt/"]
+VOLUME ["/var/lib/odoo", "/mnt/extra-addons", "/mnt/locales", "/opt/odoo/filestore"]
 
 # Expose Odoo services
 EXPOSE 8069 8071
