@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EMAIL_HOST",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"PAY",
+				"PAYPAL_CLIENT_SECRET"
+			],
+			[
+				"PAYPAL",
+				"PAYPAL_CLIENT_ID"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"html",
+				"html_content"
+			],
+			[
+				"Ema",
+				"EmailMultiAlternatives"
+			],
+			[
+				"get",
+				"get_template"
+			],
+			[
+				"registro",
+				"registro_pago"
+			],
+			[
+				"EMAIL_",
+				"EMAIL_USE_TLS"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"paddo",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"error",
+				"error_messages"
+			],
+			[
+				"render_",
+				"render_to_response"
+			],
+			[
+				"Donacion",
+				"DonacionForm	class"
+			],
+			[
+				"min",
+				"min-width: 〔property〕"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"don",
+				"donacion_view"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect	class"
+			],
+			[
+				"Dona",
+				"DonacionForm	class"
+			],
+			[
+				"forms",
+				"formset	statement"
+			],
+			[
+				"model",
+				"modelformset_factory	function"
+			],
+			[
+				"vie",
+				"views	module"
+			],
+			[
+				"H",
+				"HttpResponse	class"
+			],
+			[
+				"auto",
+				"auto_now_add	param"
+			],
+			[
+				"Da",
+				"DateTimeField	class"
+			],
+			[
+				"max",
+				"max_length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/manel/proyectos/Docker/odoo-cia/8.0/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/manel/proyectos/Docker/odoo-cia/test/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 3436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "odoo.conf",
+			"settings":
+			{
+				"buffer_size": 2395,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/manel/proyectos/Docker/odoo-cia/8.0",
+		"/Users/manel/proyectos/Docker/odoo-cia/test",
+		"/Users/manel/proyectos/Docker/odoo-cia/test/sources"
+	],
+	"file_history":
+	[
+		"/Users/manel/proyectos/Docker/odoo-cia/8.0/openerp-server.conf",
+		"/Users/manel/proyectos/Docker/odoo-cia/8.0/Dockerfile",
+		"/Users/manel/proyectos/vagrant/prueba/Vagrantfile",
+		"/Users/manel/Desktop/prueba ionic/index.html",
+		"/Users/manel/Downloads/error_log",
+		"/Users/manel/Downloads/Joomla.php",
+		"/Users/manel/docker-odoo/8.0/Dockerold",
+		"/Users/manel/docker-odoo/8.0/openerp-server.conf",
+		"/Users/manel/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/manel/.ssh/known_hosts",
+		"/Users/manel/Downloads/ultimasPalabras/index.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/admin.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/static/css/style.css",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/templates/email.txt",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/templates/base.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/confirmarOLD.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/confirmar.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/forms.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/templates/paypal_exito.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/corremjunts/settings.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/templates/email.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/views.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/donacionOLD.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/donacion.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/corremjunts/templates/base.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/templates/footer.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/templates/index_OLD.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/templates/index.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/views.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/views.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/lista.html",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/models.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/corremjunts/urls.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/admin.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/models.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/pagos/urls.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/main/urls.py",
+		"/Users/manel/proyectos/django/corremjunts/corremjunts/donaciones/templates/index.html",
+		"/Users/manel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/manel/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Volumes/Datos/TRABAJO/Leonelli/Marcas.txt",
+		"/Volumes/Datos/xubra/wp-config.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"milla"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/manel/proyectos/Docker/odoo-cia/8.0/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Seti_UI/icons/Langs/DockerFile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/manel/proyectos/Docker/odoo-cia/test/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3058,
+								3058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Seti_UI/icons/Langs/DockerFile.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "odoo.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2227,
+								2227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1274.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "odoo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

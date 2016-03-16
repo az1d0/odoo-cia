@@ -61,7 +61,7 @@ RUN chown odoo:odoo /opt/odoo/odoo.tgz
 # makes the container more unlikely to be unwillingly changed in interactive mode
 USER odoo
 
-RUN /bin/bash -c "mkdir -p /opt/odoo/{bin,etc,sources/odoo,additional_addons,data, locales}" && \
+RUN /bin/bash -c "mkdir -p /opt/odoo/{bin,etc,sources/odoo,additional_addons,data,locales}" && \
     cd /opt/odoo/sources/odoo && \
         tar xzf /opt/odoo/odoo.tgz &&\
         rm /opt/odoo/odoo.tgz
