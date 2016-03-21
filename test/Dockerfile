@@ -27,8 +27,12 @@ RUN echo "deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main" > /etc/
                 libxrender1 libxext6 fontconfig \
                 python-zsi \
                 python-lasso \
+                python-unidecode \
                 libzmq3 \
                 gdebi
+
+# Add unicodecsv
+RUN pip install unicodecsv
 
 ADD sources/pip-checksums.txt /opt/sources/pip-checksums.txt
 # use wheels from our public wheelhouse for proper versions of listed packages
